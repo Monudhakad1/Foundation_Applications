@@ -16,15 +16,16 @@ A simple **Spring Boot CRUD** application to manage books, using **H2 in-memory 
 * Spring Boot
 * Spring Web
 * Spring Data JPA
-* H2 Database
+* H2 Database -> changes to MYSQL
 * Java 17
 * Lambok
+* PostMan
 
 ---
 
 ## ⚙️ How To Run
 
-1. Clone the repo: `git clone YOUR_REPO_URL`
+1. Clone the repo: `git clone https://github.com/Monudhakad1/Foundation_Applications`
 2. Configure `application.properties` for H2.
 3. Run `mvn spring-boot:run`.
 4. Access H2 Console: `http://localhost:8080/h2-console`
